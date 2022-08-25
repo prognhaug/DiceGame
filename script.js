@@ -28,7 +28,7 @@ const switchPlayer = function () {
   player1El.classList.toggle('player--active');
 };
 
-// Starting point
+// Initial state
 
 const init = function () {
   scores = [0, 0];
